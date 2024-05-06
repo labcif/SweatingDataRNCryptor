@@ -10,7 +10,7 @@ SweatingDataRNCryptor is a Python tool designed to decrypt databases and data us
 ## Installation
 1. Clone the repository: `git clone https://github.com/labcif/SweatingDataRNCryptor.git`
 2. Install dependencies: `pip install -r requirements.txt`
-3. Run the application: `python main.py`
+3. Run the application: `python ./SweatingData_GUI.py`
 
 ## Usage
 1. Launch the application.
