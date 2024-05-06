@@ -1,5 +1,7 @@
 # SweatingDataRNCryptor
-SweatingDataRNCryptor is a Python tool designed to decrypt databases and data using the advanced RNCryptor algorithm. With SweatingDataRNCryptor, you can securely unlock encrypted databases and sensitive data using a specified key. This tool provides a user-friendly interface to select the encrypted files, apply the decryption process using the RNCryptor algorithm, and extract the decrypted contents. Whether you're dealing with encrypted databases or encrypted data, SweatingDataRNCryptor ensures seamless decryption with robust security measures. Unlock the secrets hidden within your encrypted data effortlessly with SweatingDataRNCryptor. 
+SweatingDataRNCryptor is a Python tool designed to decrypt databases and data using the advanced RNCryptor algorithm. With SweatingDataRNCryptor, you can securely unlock encrypted databases and sensitive data using a specified key. This tool provides a user-friendly interface to select the encrypted files, apply the decryption process using the RNCryptor algorithm, and extract the decrypted contents. Whether you're dealing with encrypted databases or encrypted data, SweatingDataRNCryptor ensures seamless decryption with robust security measures. Unlock the secrets hidden within your encrypted data effortlessly with SweatingDataRNCryptor.
+![imagem](https://github.com/labcif/SweatingDataRNCryptor/assets/112128696/be56a8c4-84f2-4666-b95c-f028ccaabf47)
+
 
 ## Features
 - Decrypt databases and data securely
